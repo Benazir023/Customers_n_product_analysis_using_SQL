@@ -14,4 +14,4 @@ Secondly, we explored customer information to find the VIP customers & those who
 
 Lastly, we determined the estimate amount of money that could be used to acquire new customers. Since the number of customers had been reducing significantly, the store hadn’t had new customers in a long while, more marketing was necessary. To do this, we computed the Customer Lifetime Value (LTV), which represents the average amount of money a customer generates. The LTV was about $ 39039.59 & if the business got 10 new customers in the following year, we could estimate the earnings to have increased by $ 390395.90
 
-***It then goes without saying……” you spend money to get money (where it’s worth it)!”***
+***Goes without saying……” spend money to get money (where it’s worth it)!”***
