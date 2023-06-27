@@ -1,4 +1,4 @@
-**Customers and Products Analysis**
+#**Customers and Products Analysis**
 
 The tool used for analysis is SQL Browser for SQLite. 
 
